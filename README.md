@@ -13,7 +13,7 @@
 
 [简单的神经网络](https://github.com/viewsetting/MineNet)  
 [MAXnet框架](http://space.bilibili.com/209599371?share_medium=android&share_source=copy_link&bbid=dhMlRn9GIBInE3JGdUQmFVUUQw4jYlIinfoc&ts=1557924934450)  
-*神经网络与深度学习*  
+*nndl-book-ipad(神经网络与深度学习)*  
 *python的Scikit-Learn和TensorFlow*
 -----
 ## 数学基础
